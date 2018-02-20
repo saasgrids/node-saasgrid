@@ -1,6 +1,6 @@
 {
   "name": "saasgrids",
-  "version": "1.0.0",
+  "version": "1.0.15",
   "description": "Saasgrids_CRM_grid",
   "license": "Unlicense",
   "main": "src/index.js",
