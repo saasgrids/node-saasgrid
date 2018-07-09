@@ -49,7 +49,7 @@
      * @type {String}
      * @default https://api.saasgrids.com/apis/crms/
      */
-    this.basePath = 'https://api.saasgrids.com/apis/crms/'.replace(/\/+$/, '');
+    this.basePath = 'http://api.saasgrids.com/apis/crms/'.replace(/\/+$/, '');
 
     /**
      * The authentication methods to be included for all API calls.
